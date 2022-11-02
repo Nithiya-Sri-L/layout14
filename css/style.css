@@ -1,0 +1,182 @@
+.header .wrapper
+ {
+	width:100%;
+    margin:auto;	
+ }
+ 
+  .banner .wrapper
+ {
+	width:100%;
+    margin:auto;	
+ }
+ .categories .wrapper
+ {
+	 width:100%;
+	 margin:auto;	
+ }
+ .titles .wrapper
+ {
+	 width:100%;
+	 margin:auto;	
+ }
+ .header
+ {
+	 background-color:yellow;
+	 height:80px;
+ }
+ .header .header-fc 
+ {
+	 display:flex;
+ }
+ .header .header-fc .home
+ {
+	 text-align:center;
+	 background-color:#e91863;
+	 width:50%;
+	 height:80px;
+ }
+ .header .header-fc .navi
+ {
+	 text-align:center;
+	 background-color:pink;
+	 width:50%;
+	 height:80px;
+ }
+ .banner 
+{
+	text-align:center;
+	height:600px;
+	width:100%;
+	background-color:yellow;
+}
+.banner .banner-fc 
+{
+	display:flex;
+	justify-content:center;
+}
+.banner .banner-fc .about
+{
+	margin-top:30px;
+	height:500px;
+	width:45%;
+	background-color:#03a9f4;
+}
+.banner .banner-fc .about-fc 
+{
+	display:flex;
+	justify-content:center;
+	margin:auto;
+}
+.banner .banner-fc  .about .about-fc .read
+{
+	margin-top:300px;
+	text-align:center;
+	width:40%;
+	height:30px;
+	background-color:yellow;
+}
+.banner .banner-fc .categories 
+ {
+	 margin-top:30px;
+	height:500px;
+	width:45%;
+	background-color:#009688;
+}
+.banner .banner-fc .categories .categories-fc .
+{
+	display:flex;
+	flex-direction:column;
+	flex-wrap:wrap;
+}
+.banner .banner-fc .categories .categories-fc  .search
+{
+	text-align:center;
+	width:60%;
+	height:80px;
+	background-color:yellow;
+    margin:auto;
+	margin-top:80px;
+}
+.banner .banner-fc .categories .categories-fc  .links
+{
+	text-align:center;
+	width:60%;
+	height:80px;
+	background-color:yellow;
+	margin:auto;
+	margin-top:80px;
+}
+.banner .banner-fc .categories .categories-fc  .side-wedget
+{
+	text-align:center;
+	width:60%;
+	height:80px;
+	background-color:yellow;
+	margin:auto;
+	margin-top:80px;
+}
+.titles
+{
+	text-align:center;
+	height:800px;
+	width:100%;
+	background-color:#ff5722;
+}
+.titles .titles-fc
+{
+	display:flex;
+	flex-wrap:wrap;
+}
+.titles .titles-fc .boxa
+{
+	margin-top:60px;
+	text-align:center;
+	height:300px;
+	width:35%;
+	background-color:#e91863;
+}
+.titles .titles-fc .boxb
+{
+	margin-top:60px;
+	text-align:center;
+	height:300px;
+	width:35%;
+	background-color:#009688;
+}
+.titles .titles-fc .boxc
+{
+	margin-top:60px;
+	text-align:center;
+	height:300px;
+	width:35%;
+	background-color:#009688;
+}
+.titles .titles-fc .boxd
+{
+	margin-top:60px;
+	text-align:center;
+	height:300px;
+	width:35%;
+	background-color:#e91863;
+}
+	.copyright
+	{
+		text-align:center;
+		height:120px;
+		width:100%;
+		background-color:#cddc39;
+	}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
